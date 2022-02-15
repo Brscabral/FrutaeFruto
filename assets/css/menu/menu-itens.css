@@ -1,0 +1,6 @@
+.menu__itens{
+    list-style: none;
+}
+.menu__itens:last-child .menu-links{
+    margin-right: 0;
+}
